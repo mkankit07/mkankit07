@@ -14,7 +14,7 @@ Hello, I'm Ankit Maurya
 ## ☎️ CONTACT ME
 [![Linkedin Badge](https://img.shields.io/badge/-Ankit-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ankit-maurya-481890219/)](https://www.linkedin.com/in/ankit-maurya-481890219/)
 [![Gmail Badge](https://img.shields.io/badge/-ankit20@navgurukul.org-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:ankit20@navgurukul.org)](mailto:ankit20@navgurukul.org)
-[![Instagram Badge](https://img.shields.io/badge/-mkankit07-c14438?style=flat-square&logo=Gmail&logoColor=white&link=https://www.instagram.com/mkankit07/)](https://www.instagram.com/mkankit07/)
+[![Instagram Badge](https://img.shields.io/badge/-mkankit07-c14438?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/mkankit07/)](https://www.instagram.com/mkankit07/)
 
 <br />
 ## 👨🏾‍🔧 MY SKILL SET
