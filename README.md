@@ -12,34 +12,22 @@ Hello, I'm Ankit Maurya
 
 
 ## ☎️ CONTACT ME
-
 [![Linkedin Badge](https://img.shields.io/badge/-Ankit-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ankit-maurya-481890219/)](https://www.linkedin.com/in/ankit-maurya-481890219/)
 [![Gmail Badge](https://img.shields.io/badge/-ankit20@navgurukul.org-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:ankit20@navgurukul.org)](mailto:ankit20@navgurukul.org)
-
-
 <br />
-
 ## 👨🏾‍🔧 MY SKILL SET
-
 <br />
-
 ### Frontend
-
 ![HTML5](https://img.shields.io/badge/-HTML5-000000?style=flat&logo=HTML5)
 ![CSS3](https://img.shields.io/badge/-CSS3-000000?style=flat&logo=CSS3&logoColor=1572B6)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-000000?style=flat&logo=javascript)
-
 ### Backend
-
 ![Node.js](https://img.shields.io/badge/-Node.js-000000?style=flat&logo=Node.js&logoColor=339933)
 ![Nodemon](https://img.shields.io/badge/-Nodemon-000000?style=flat&logo=Nodemon&logoColor=76D04B)
 ![Express.js](https://img.shields.io/badge/-Express.js-000000?style=flat&logo=Express.js&logoColor=76D04B)
-
 ### Database
-
 ![MongoDB](https://img.shields.io/badge/-MongoDB-000000?style=flat&logo=MongoDB&logoColor=47A248)
 ![MYSQL](https://img.shields.io/badge/-MYSQL-000000?style=flat&logo=MYSQL&logoColor=336791)
-
 ### API
 
 ![RESTAPI](https://img.shields.io/badge/-RESTAPI-000000?style=flat&logo=RESTAPI&logoColor=336791)
@@ -47,8 +35,6 @@ Hello, I'm Ankit Maurya
 ### Package managers
 
 ![NPM](https://img.shields.io/badge/-NPM-000000?style=flat&logo=NPM&logoColor=CB3837)
-
-
 
 ### Version control system
 
