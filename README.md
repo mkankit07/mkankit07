@@ -17,7 +17,9 @@ Hello, I'm Ankit Maurya
 [![Instagram Badge](https://img.shields.io/badge/-mkankit07-c14438?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/mkankit07/)](https://www.instagram.com/mkankit07/)
 
 <br />
+
 ## 👨🏾‍🔧 MY SKILL SET
+
 <br />
 
 ### Frontend
