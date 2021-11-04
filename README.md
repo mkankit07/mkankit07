@@ -9,7 +9,7 @@ Hello, I'm Ankit Maurya
 
 ## 👨🏾‍💻 ABOUT ME
 
-<p>Ankit  is an Fresher Web Developer. have knowledge  front-end(HTML5, CSS3, React js and Javascript) to back-end(Node Js, Express Js and PostgreSQL).</p>
+<p>Ankit  is an Fresher Web Developer. have knowledge  front-end(HTML5, CSS3, React js and Javascript) to back-end(Node Js, Express Js and MongoDB).</p>
 
 
 ## ☎️ CONTACT ME
