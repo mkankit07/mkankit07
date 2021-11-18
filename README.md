@@ -1,24 +1,28 @@
 <!-- <p align="left"> <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px"> <img src="https://komarev.com/ghpvc/?username=mkankit07&label=Profile%20views&color=0e75b6&style=flat" alt="mkankit07" /> </p> -->
 <h1 align="center">
 <!-- <img src="https://github.com/blackcater/blackcater/raw/master/images/Hi.gif" height="32" /> -->
-   👨🏾‍💻 
+
 Hello, I'm Ankit Maurya
-   👨🏾‍💻 
+
 <!-- <img src="https://github.com/blackcater/blackcater/raw/master/images/Hi.gif" height="32" /> -->
 </h1>
 
 <img align='right' src="https://media.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif" width="70">
 
+
 ## 👨🏾‍💻 ABOUT ME
 
 <p>Ankit is an Fresher Web Developer. Have knowledge front-end (HTML5, CSS3, React js and Javascript) to back-end(Node Js, Express Js and MongoDB).</p>
+
 
 ## ☎️ CONTACT ME
 [![Linkedin Badge](https://img.shields.io/badge/-Ankit-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ankit-maurya-481890219/)](https://www.linkedin.com/in/ankit-maurya-481890219/)
 [![Gmail Badge](https://img.shields.io/badge/-ankit20@navgurukul.org-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:ankit20@navgurukul.org)](mailto:ankit20@navgurukul.org)
 [![Instagram Badge](https://img.shields.io/badge/-mkankit07-c14438?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/mkankit07/)](https://www.instagram.com/mkankit07/)
+
 <br />
 ## 👨🏾‍🔧 MY SKILL SET
+
 <br />
 ### Frontend
 
