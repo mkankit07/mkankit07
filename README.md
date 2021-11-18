@@ -1,8 +1,10 @@
 <!-- <p align="left"> <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px"> <img src="https://komarev.com/ghpvc/?username=mkankit07&label=Profile%20views&color=0e75b6&style=flat" alt="mkankit07" /> </p> -->
 <h1 align="center">
-<img src="https://github.com/blackcater/blackcater/raw/master/images/Hi.gif" height="32" />
+<!-- <img src="https://github.com/blackcater/blackcater/raw/master/images/Hi.gif" height="32" /> -->
+   👨🏾‍💻 
 Hello, I'm Ankit Maurya
-<img src="https://github.com/blackcater/blackcater/raw/master/images/Hi.gif" height="32" />
+   👨🏾‍💻 
+<!-- <img src="https://github.com/blackcater/blackcater/raw/master/images/Hi.gif" height="32" /> -->
 </h1>
 
 <img align='right' src="https://media.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif" width="70">
