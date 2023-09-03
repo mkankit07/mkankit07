@@ -1,4 +1,4 @@
-<p align="left"><img src="https://komarev.com/ghpvc/?username=mkankit12&label=Profile%20views&color=0e75b6&style=flat" alt="mkankit12" /> </p>
+<p align="left"><img src="https://komarev.com/ghpvc/?username=mkankit07&label=Profile%20views&color=0e75b6&style=flat" alt="mkankit07" /> </p>
 <p align="center">
   <img src="https://github.com/thompsonemerson/thompsonemerson/raw/master/cover-thompson.png" height="200"/>
 </p>
@@ -17,9 +17,6 @@
 ✔ 📫 How to reach me **mkankit189@gmail.com**<br>
 ✔ Ask from me anything you want, If I am alive I will answer within seconds 😉<br>
 ✔ Fun fact : *I Always try to learn something new and then sleep till it store in the brain* 😎<br><br><br><br>
-<a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
-
-<a href="https://github.com/ashutosh00710/github-readme-activity-graph"><img alt="DenverCoder1's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=mkankit12&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true" /></a>
 
 <a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
 
@@ -103,8 +100,8 @@
 
 &nbsp;***Let's Connect ....***
 <p align="center">
-	<a href="https://www.facebook.com/<>/"><img src="https://img.icons8.com/color/50/000000/facebook.png" alt="Facebook"/></a>
-	<a href="https://www.linkedin.com/in/<>/"><img src="https://img.icons8.com/color/50/000000/linkedin.png" alt="LinkedIn"/></a>
+	<a href="https://www.facebook.com/ankitmaurya.maurya.14268/"><img src="https://img.icons8.com/color/50/000000/facebook.png" alt="Facebook"/></a>
+	<a href="https://www.linkedin.com/in/ankit-maurya-481890219/"><img src="https://img.icons8.com/color/50/000000/linkedin.png" alt="LinkedIn"/></a>
 	<a href="https://www.instagram.com/mkankit07/"><img src="https://img.icons8.com/fluency/50/000000/instagram-new.png" alt="Instagram"/></a>
 	<a href="https://twitter.com/<>"><img src="https://img.icons8.com/fluency/50/000000/twitter.png" alt="Twitter"/></a>
 </p>
